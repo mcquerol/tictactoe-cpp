@@ -1,0 +1,165 @@
+package idiqiazkw9kq5dkkw9kq6cs;
+
+/**
+@version 2.0
+@physicalPackage
+@__modelType diagram 
+*/
+class diagram {
+/**
+@__ref <oiref:cpp#Class#CGame:oiref><oihard>
+@__modelType reference 
+*/
+class reference {
+}
+/**
+@__ref <oiref:cpp#Class#CPlayer:oiref><oihard>
+@__modelType reference 
+*/
+class reference1 {
+}
+/**
+@__ref <oiref:cpp#Class#CHuman:oiref><oihard>
+@__modelType reference 
+*/
+class reference2 {
+}
+/**
+@__ref <oiref:cpp#Class#CAI:oiref><oihard>
+@__modelType reference 
+*/
+class reference3 {
+}
+/**
+@__ref <oiref:cpp#Class#CBoard:oiref><oihard>
+@__modelType reference 
+*/
+class reference4 {
+}
+/**
+@__ref <oiref:cpp#Class#CScreen:oiref><oihard>
+@__modelType reference 
+*/
+class reference5 {
+}
+/**
+@__ref <oiref:cpp#Class#CGraphicalScreen:oiref><oihard>
+@__modelType reference 
+*/
+class reference6 {
+}
+}/**
+@__tags
+@shapeType ClassDiagram 
+@changelog rO0ABXNyABFqYXZhLnV0aWwuSGFzaE1hcAUH2sHDFmDRAwACRgAKbG9hZEZhY3RvckkACXRocmVz
+aG9sZHhwP0AAAAAAAAx3CAAAABAAAAAHc3IADmphdmEubGFuZy5Mb25nO4vkkMyPI98CAAFKAAV2
+YWx1ZXhyABBqYXZhLmxhbmcuTnVtYmVyhqyVHQuU4IsCAAB4cAAAAX1KF5gAc3IAE2phdmEudXRp
+bC5BcnJheUxpc3R4gdIdmcdhnQMAAUkABHNpemV4cAAAAAF3BAAAAApzcgAlZGUubW5sLmRvY2Jv
+b2s0VEEuaW1wbC5DaGFuZ2VMb2dFbnRyeQeNjrX5qiSfAgADTAAIaG9zdG5hbWV0ABJMamF2YS9s
+YW5nL1N0cmluZztMAARuYW1lcQB+AAhMAAR1c2VycQB+AAh4cHQAD0RFU0tUT1AtMTBTVUYyTXQA
+CTxkZWZhdWx0PnQAD01hdGVvIEMuIFF1ZXJvbHhzcQB+AAIAAAF9RPE8AHNxAH4ABQAAAAF3BAAA
+AApzcQB+AAd0AA9ERVNLVE9QLTEwU1VGMk10AAk8ZGVmYXVsdD50AA9NYXRlbyBDLiBRdWVyb2x4
+c3EAfgACAAABfYfj6ABzcQB+AAUAAAABdwQAAAAKc3EAfgAHdAADTVNJdAAJPGRlZmF1bHQ+dAAF
+cm9ib214c3EAfgACAAABfY0KRABzcQB+AAUAAAABdwQAAAAKc3EAfgAHdAADTVNJdAAJPGRlZmF1
+bHQ+dAAFcm9ib214c3EAfgACAAABfVmKrABzcQB+AAUAAAABdwQAAAAKc3EAfgAHdAAPREVTS1RP
+UC0xMFNVRjJNdAAJPGRlZmF1bHQ+dAAPTWF0ZW8gQy4gUXVlcm9seHNxAH4AAgAAAX0/yuAAc3EA
+fgAFAAAAAXcEAAAACnNxAH4AB3QAD0RFU0tUT1AtMTBTVUYyTXQACTxkZWZhdWx0PnQAD01hdGVv
+IEMuIFF1ZXJvbHhzcQB+AAIAAAF9Tz30AHNxAH4ABQAAAAF3BAAAAApzcQB+AAd0AANNU0l0AAk8
+ZGVmYXVsdD50AAVyb2JvbXh4
+@elementChangelogs rO0ABXNyABFqYXZhLnV0aWwuSGFzaE1hcAUH2sHDFmDRAwACRgAKbG9hZEZhY3RvckkACXRocmVz
+aG9sZHhwP0AAAAAAAAx3CAAAABAAAAAGdAAfPG9pcmVmOmNwcCNDbGFzcyNDUGxheWVyOm9pcmVm
+PnNxAH4AAD9AAAAAAAAMdwgAAAAQAAAAB3NyAA5qYXZhLmxhbmcuTG9uZzuL5JDMjyPfAgABSgAF
+dmFsdWV4cgAQamF2YS5sYW5nLk51bWJlcoaslR0LlOCLAgAAeHAAAAF9SheYAHNyABNqYXZhLnV0
+aWwuQXJyYXlMaXN0eIHSHZnHYZ0DAAFJAARzaXpleHAAAAABdwQAAAAKc3IAJWRlLm1ubC5kb2Ni
+b29rNFRBLmltcGwuQ2hhbmdlTG9nRW50cnkHjY61+aoknwIAA0wACGhvc3RuYW1ldAASTGphdmEv
+bGFuZy9TdHJpbmc7TAAEbmFtZXEAfgAKTAAEdXNlcnEAfgAKeHB0AA9ERVNLVE9QLTEwU1VGMk10
+AAdDUGxheWVydAAPTWF0ZW8gQy4gUXVlcm9seHNxAH4ABAAAAX1E8TwAc3EAfgAHAAAAAXcEAAAA
+CnNxAH4ACXQAD0RFU0tUT1AtMTBTVUYyTXQAB0NQbGF5ZXJ0AA9NYXRlbyBDLiBRdWVyb2x4c3EA
+fgAEAAABfYfj6ABzcQB+AAcAAAABdwQAAAAKc3EAfgAJdAADTVNJdAAHQ1BsYXllcnQABXJvYm9t
+eHNxAH4ABAAAAX2NCkQAc3EAfgAHAAAAAXcEAAAACnNxAH4ACXQAA01TSXQAB0NQbGF5ZXJ0AAVy
+b2JvbXhzcQB+AAQAAAF9WYqsAHNxAH4ABwAAAAF3BAAAAApzcQB+AAl0AA9ERVNLVE9QLTEwU1VG
+Mk10AAdDUGxheWVydAAPTWF0ZW8gQy4gUXVlcm9seHNxAH4ABAAAAX0/yuAAc3EAfgAHAAAAAXcE
+AAAACnNxAH4ACXQAD0RFU0tUT1AtMTBTVUYyTXQAB0NQbGF5ZXJ0AA9NYXRlbyBDLiBRdWVyb2x4
+c3EAfgAEAAABfU899ABzcQB+AAcAAAABdwQAAAAKc3EAfgAJdAADTVNJdAAHQ1BsYXllcnQABXJv
+Ym9teHh0AB08b2lyZWY6Y3BwI0NsYXNzI0NHYW1lOm9pcmVmPnNxAH4AAD9AAAAAAAAMdwgAAAAQ
+AAAABXNxAH4ABAAAAX1KF5gAc3EAfgAHAAAAAXcEAAAACnNxAH4ACXEAfgAMdAAFQ0dhbWVxAH4A
+DnhzcQB+AAQAAAF9h+PoAHNxAH4ABwAAAAF3BAAAAApzcQB+AAlxAH4AGHQABUNHYW1lcQB+ABp4
+c3EAfgAEAAABfY0KRABzcQB+AAcAAAABdwQAAAAKc3EAfgAJcQB+AB50AAVDR2FtZXEAfgAgeHNx
+AH4ABAAAAX1ZiqwAc3EAfgAHAAAAAXcEAAAACnNxAH4ACXEAfgAkdAAFQ0dhbWVxAH4AJnhzcQB+
+AAQAAAF9Tz30AHNxAH4ABwAAAAF3BAAAAApzcQB+AAlxAH4AMHQABUNHYW1lcQB+ADJ4eHQAHjxv
+aXJlZjpjcHAjQ2xhc3MjQ0h1bWFuOm9pcmVmPnNxAH4AAD9AAAAAAAAMdwgAAAAQAAAABXNxAH4A
+BAAAAX1KF5gAc3EAfgAHAAAAAXcEAAAACnNxAH4ACXEAfgAMdAAGQ0h1bWFucQB+AA54c3EAfgAE
+AAABfYfj6ABzcQB+AAcAAAABdwQAAAAKc3EAfgAJcQB+ABh0AAZDSHVtYW5xAH4AGnhzcQB+AAQA
+AAF9jQpEAHNxAH4ABwAAAAF3BAAAAApzcQB+AAlxAH4AHnQABkNIdW1hbnEAfgAgeHNxAH4ABAAA
+AX1ZiqwAc3EAfgAHAAAAAXcEAAAACnNxAH4ACXEAfgAkdAAGQ0h1bWFucQB+ACZ4c3EAfgAEAAAB
+fU899ABzcQB+AAcAAAABdwQAAAAKc3EAfgAJcQB+ADB0AAZDSHVtYW5xAH4AMnh4dAAePG9pcmVm
+OmNwcCNDbGFzcyNDQm9hcmQ6b2lyZWY+c3EAfgAAP0AAAAAAAAx3CAAAABAAAAABc3EAfgAEAAAB
+fY0KRABzcQB+AAcAAAABdwQAAAAKc3EAfgAJcQB+AB50AAZDQm9hcmRxAH4AIHh4dAAbPG9pcmVm
+OmNwcCNDbGFzcyNDQUk6b2lyZWY+c3EAfgAAP0AAAAAAAAx3CAAAABAAAAACc3EAfgAEAAABfYfj
+6ABzcQB+AAcAAAABdwQAAAAKc3EAfgAJcQB+ABh0AANDQUlxAH4AGnhzcQB+AAQAAAF9jQpEAHNx
+AH4ABwAAAAF3BAAAAApzcQB+AAlxAH4AHnQAA0NBSXEAfgAgeHh0AB88b2lyZWY6Y3BwI0NsYXNz
+I0NTY3JlZW46b2lyZWY+c3EAfgAAP0AAAAAAAAx3CAAAABAAAAAFc3EAfgAEAAABfUoXmABzcQB+
+AAcAAAABdwQAAAAKc3EAfgAJcQB+AAx0AAdDU2NyZWVucQB+AA54c3EAfgAEAAABfYfj6ABzcQB+
+AAcAAAABdwQAAAAKc3EAfgAJcQB+ABh0AAdDU2NyZWVucQB+ABp4c3EAfgAEAAABfY0KRABzcQB+
+AAcAAAABdwQAAAAKc3EAfgAJcQB+AB50AAdDU2NyZWVucQB+ACB4c3EAfgAEAAABfVmKrABzcQB+
+AAcAAAABdwQAAAAKc3EAfgAJcQB+ACR0AAdDU2NyZWVucQB+ACZ4c3EAfgAEAAABfU899ABzcQB+
+AAcAAAABdwQAAAAKc3EAfgAJcQB+ADB0AAdDU2NyZWVucQB+ADJ4eHg=
+*/
+class __tags {
+}/**
+@__options 
+*/
+class __options {
+}/**
+@__positions 
+<oigroup:Autodependency<oiref:cpp#Class#CGame:oiref><Autodependency><oiref:cpp#Class#CPlayer:oiref>=515,350,515,400:oigroup>
+<oigroup:Composite#supplierCardinality#MemberLink#<oiref:cpp#Member#CGame#screen:oiref>=768,227,28,16,0:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#CGame#screen:oiref>=670,247,800,247:oigroup>
+<oigroup:<oiref:cpp#Member#CPlayer#x:oiref>=450,450,184,16,1:oigroup>
+<oigroup:Composite#supplierCardinality#MemberLink#<oiref:cpp#Member#CGame#players:oiref>=513,380,28,16,0:oigroup>
+<oigroup:<oiref:cpp#Extends#CAI#CPlayer:oiref>=590,630,590,590:oigroup>
+<oigroup:Composite#supplierCardinality#MemberLink#<oiref:cpp#Member#CPlayer#b:oiref>=168,320,28,16,0:oigroup>
+<oigroup:<oiref:cpp#Member#CGraphicalScreen#$$constructor$$#(##)#:oiref>=800,400,124,16,1:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#CGame:oiref><Autodependency><oiref:cpp#Class#CScreen:oiref>=580,266,800,266:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#CPlayer#board:oiref>=450,450,250,450,250,320:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#CPlayer#b:oiref>=450,470,200,470,200,320:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#CGame#humans:oiref>=477,350,477,630:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#CScreen#board:oiref>=870,180,870,90,200,90,200,190:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#CGame:oiref><Autodependency><oiref:cpp#Class#CAI:oiref>=670,210,730,210,730,680,679,680:oigroup>
+<oigroup:Composite#supplierCardinality#MemberLink#<oiref:cpp#Member#CGame#graphicalScreen:oiref>=768,342,28,16,0:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#CGame#human:oiref>=470,350,470,630:oigroup>
+<oigroup:<oiref:cpp#Class#CGraphicalScreen:oiref>=800,350,130,170,0:oigroup>
+<oigroup:<oiref:cpp#Class#CPlayer:oiref>=450,400,190,190,0:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#CGame#board:oiref>=440,265,290,265:oigroup>
+<oigroup:<oiref:cpp#Member#CGame#graphicalScreen:oiref>=430,260,174,16,1:oigroup>
+<oigroup:<oiref:cpp#Member#CGame#play#(##)#:oiref>=440,320,114,16,1:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#CScreen:oiref><Autodependency><oiref:cpp#Class#CBoard:oiref>=860,180,860,70,230,70,230,190:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#CAI:oiref><Autodependency><oiref:cpp#Class#CBoard:oiref>=546,630,204,320:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#CGame#b:oiref>=440,265,290,265:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#CPlayer:oiref><Autodependency><oiref:cpp#Class#CBoard:oiref>=508,400,247,320:oigroup>
+<oigroup:<oiref:cpp#Class#CScreen:oiref>=800,180,129,142,0:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#CHuman:oiref><Autodependency><oiref:cpp#Class#CBoard:oiref>=426,630,162,320:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#CGame#players:oiref>=545,360,545,400:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#CBoard#lnkCScreen:oiref>=280,190,280,80,710,80,710,190:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#CGame:oiref><Autodependency><oiref:cpp#Class#CHuman:oiref>=440,210,330,210,330,670,390,670:oigroup>
+<oigroup:Composite#supplierCardinality#MemberLink#<oiref:cpp#Member#CGame#board:oiref>=294,245,28,16,0:oigroup>
+<oigroup:<oiref:cpp#Member#CGraphicalScreen#printGUI#(##)#:oiref>=800,450,124,16,1:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#CGame#lnkCPlayer:oiref>=500,330,500,380:oigroup>
+<oigroup:<oiref:cpp#Class#CGame:oiref>=440,170,230,190,0:oigroup>
+<oigroup:<oiref:cpp#Class#CHuman:oiref>=390,630,140,120,0:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#CGame#graphicalScreen:oiref>=670,322,800,376:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#CGame:oiref><Autodependency><oiref:cpp#Class#CBoard:oiref>=440,265,290,265:oigroup>
+<oigroup:<oiref:cpp#Member#CGame#$$constructor$$#(##)#:oiref>=440,300,114,16,1:oigroup>
+<oigroup:<oiref:cpp#Class#CAI:oiref>=540,630,139,130,0:oigroup>
+<oigroup:<oiref:cpp#Extends#CHuman#CPlayer:oiref>=490,630,490,590:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#CGame#AIs:oiref>=537,350,577,630:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#CGame#player:oiref>=500,330,500,380:oigroup>
+<oigroup:<oiref:cpp#Class#CBoard:oiref>=120,190,170,130,0:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#CGame#lnkCBoard:oiref>=440,260,290,260:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#CGame#lnkCScreen:oiref>=580,266,800,266:oigroup>
+
+
+
+*/
+class __positions {
+}

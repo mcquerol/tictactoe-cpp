@@ -1,6 +1,6 @@
-html/** linguist-vendored
-*.css linguist-vendored
-*.md linguist-vendored
+html/** linguist-documentation
+*.css linguist-documentation
+*.md linguist-documentation
 
 # Hide weird files
 *.gbd linguist-generated

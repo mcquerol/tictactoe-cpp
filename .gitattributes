@@ -1,0 +1,7 @@
+html/** linguist-vendored
+*.css linguist-vendored
+*.md linguist-vendored
+
+# Hide weird files
+*.gbd linguist-generated
+*.log linguist-generated

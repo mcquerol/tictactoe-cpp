@@ -1,7 +1,7 @@
 html/** linguist-documentation
-*.css linguist-documentation
-*.md linguist-documentation
+*.css linguist-language=cpp
+*.md linguist-language=cpp
 
 # Hide weird files
-*.gbd linguist-generated
-*.log linguist-generated
+*.gbd linguist-language=cpp
+*.log linguist-language=cpp

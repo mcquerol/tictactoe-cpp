@@ -1,7 +1,7 @@
-html/** linguist-language=cpp
-*.css linguist-language=cpp
-*.md linguist-language=cpp
+html/** linguist-language=C++
+*.css linguist-language=C++
+*.md linguist-language=C++
 
 # Hide weird files
-*.gbd linguist-language=cpp
-*.log linguist-language=cpp
+*.gbd linguist-language=C++
+*.log linguist-language=C++
